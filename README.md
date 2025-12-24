@@ -2,7 +2,7 @@
 python main.py
 
 # Запуск тестов
-py3 -m venv venv
+python3 -m venv venv
 
 windows - venv\Scripts\activate 
 

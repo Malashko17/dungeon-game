@@ -1,6 +1,12 @@
-Запуск тестов
+# Запуск игры
+python main.py
 
-py3 -m venv venv 
+# Запуск тестов
+py3 -m venv venv
+
+windows - venv\Scripts\activate 
+
+macOs\linux - source venv/bin/activate
 
 pip install -r requirements.txt
 
